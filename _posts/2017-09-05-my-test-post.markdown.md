@@ -3,7 +3,10 @@ layout: post
 title: My Test Post
 date: 2017-09-05T16:37:17.026Z
 categories:
-  - ''
+  - Test
+  - News
+  - Netlify
+  - CMS
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed enim
  dolor. Suspendisse potenti. Curabitur cursus, ante in consequat mattis,
@@ -63,6 +66,3 @@ Vivamus enim tellus, interdum ac dapibus sit amet, auctor eget elit.
 Nunc posuere urna magna, id finibus lectus tincidunt eget. Proin 
 scelerisque non urna gravida interdum. Duis ultricies nulla suscipit, 
 sollicitudin sem nec, tincidunt dui.
-
-
-

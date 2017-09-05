@@ -23,6 +23,10 @@ lobortis dui. Fusce non urna elementum, tempus velit id, ultricies arcu.
 fermentum. Maecenas a erat fringilla, finibus turpis gravida, varius 
 sem. Donec id ipsum posuere, blandit dolor vitae, tincidunt velit.
 
+<!-- more -->
+
+![Thames Barrier](/_pictures/uploads/IMG_2232.JPG)
+
 Sed aliquet non sem sed fringilla. Nullam mollis ultricies massa sit 
 amet euismod. Sed finibus felis sed sapien luctus, convallis porttitor 
 leo tincidunt. Nunc et iaculis ante. Praesent dignissim aliquet nibh in 
@@ -66,3 +70,4 @@ Vivamus enim tellus, interdum ac dapibus sit amet, auctor eget elit.
 Nunc posuere urna magna, id finibus lectus tincidunt eget. Proin 
 scelerisque non urna gravida interdum. Duis ultricies nulla suscipit, 
 sollicitudin sem nec, tincidunt dui.
+
